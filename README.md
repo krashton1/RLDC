@@ -54,3 +54,9 @@ Software/Libraries
 	Tiled
 	Aseprite
 	SDL2
+	
+Steps To Game
+
+	Create Base Engine
+	Game
+	Sprites
