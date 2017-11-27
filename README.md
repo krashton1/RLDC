@@ -47,3 +47,10 @@ Between Dungeons
 		
 	Marketplace
 		-Buy tools and equipment normally
+		
+Software/Libraries
+
+	Visual Studio
+	Tiled
+	Aseprite
+	SDL2
